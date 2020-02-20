@@ -1,0 +1,20 @@
+{
+  "name": "AppConfigExample",
+  "displayName": "AppConfigExample",
+  "expo": {
+    "name": "AppConfigExample",
+    "slug": "AppConfigExample",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "extra": {
+      "foo": "app.json"
+    }
+  }
+}
